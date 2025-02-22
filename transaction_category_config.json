@@ -1,0 +1,14 @@
+{
+    "Configuration": [
+                    {
+                        "keyword":"ABC",
+                        "category" : "CAT1"
+
+                    }
+                    ,{
+                        "keyword":"XYZ",
+                        "category" : "CAT2"
+
+                    }
+    ]
+}
